@@ -28,7 +28,7 @@ Six machine learning models were created and used as part of this analysis.  Bef
 
 * Balanced Accuracy Score: 67%
 
-![B96BC433-2BCC-4989-AFB0-33A63C2D8812_4_5005_c](https://user-images.githubusercontent.com/96222437/165002111-f7c78242-3ea9-4ed9-be3d-c296de398b0e.jpeg)
+![57D59197-7324-43B6-A0BB-3F036456A9AA_4_5005_c](https://user-images.githubusercontent.com/96222437/165003464-d2e67301-131b-4d7b-9528-302f38c43fe4.jpeg)
 
 
 * Precision and Recall Scores: 
