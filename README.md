@@ -13,7 +13,8 @@ Six machine learning models were created and used as part of this analysis.  Bef
 
 * Balanced Accuracy Score:  61%
 
-![09D4EF51-8A44-4CCA-B22D-9AFFAC65361F_1_105_c](https://user-images.githubusercontent.com/96222437/165001682-f4f5ded9-bbf6-4990-a04e-9d7e1f6415df.jpeg)
+![B80AF95B-BBF8-46BF-A744-19D5FF16D943_4_5005_c](https://user-images.githubusercontent.com/96222437/165003302-0f9d5eb2-c455-4d06-853a-4e43e3507dde.jpeg)
+
 
 * Precision and Recall Scores: 
     High Risk - has a precision rate of 1% and recall rate of 67%. 
